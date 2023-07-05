@@ -1,0 +1,6 @@
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\FrameworkLibrary1\bin\Debug\FrameworkLibrary1.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\FrameworkLibrary1\bin\Debug\FrameworkLibrary1.pdb
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\FrameworkLibrary1\obj\Debug\FrameworkLibrary1.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\FrameworkLibrary1\obj\Debug\FrameworkLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\FrameworkLibrary1\obj\Debug\FrameworkLibrary1.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\FrameworkLibrary1\obj\Debug\FrameworkLibrary1.pdb

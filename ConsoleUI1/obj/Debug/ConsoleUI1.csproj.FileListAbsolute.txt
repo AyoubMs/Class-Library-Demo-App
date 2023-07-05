@@ -1,0 +1,11 @@
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\bin\Debug\ConsoleUI1.exe.config
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\bin\Debug\ConsoleUI1.exe
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\bin\Debug\ConsoleUI1.pdb
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\bin\Debug\FrameworkLibrary1.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\bin\Debug\FrameworkLibrary1.pdb
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\obj\Debug\ConsoleUI1.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\obj\Debug\ConsoleUI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\obj\Debug\ConsoleUI1.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\obj\Debug\ConsoleUI1.csproj.CopyComplete
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\obj\Debug\ConsoleUI1.exe
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI1\obj\Debug\ConsoleUI1.pdb

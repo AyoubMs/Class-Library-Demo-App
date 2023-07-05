@@ -1,0 +1,10 @@
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\bin\Debug\netstandard2.1\StandardLibrary.deps.json
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\bin\Debug\netstandard2.1\StandardLibrary.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\bin\Debug\netstandard2.1\StandardLibrary.pdb
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\StandardLibrary\obj\Debug\netstandard2.1\StandardLibrary.pdb

@@ -1,0 +1,3 @@
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemoAPp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
